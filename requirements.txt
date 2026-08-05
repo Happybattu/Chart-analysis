@@ -4,3 +4,13 @@ pandas
 numpy
 plotly
 ta
+streamlit==1.61.0
+pandas
+numpy
+plotly
+yfinance
+ta
+requests
+beautifulsoup4
+lxml
+openpyxl
