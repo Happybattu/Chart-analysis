@@ -285,4 +285,4 @@ if run:
                "backtested or guaranteed. Do your own research or consult a financial advisor.")
 else:
     st.info("Enter an NSE symbol and click Analyze. Example: FSL, RELIANCE, INFY, SONACOMS")
-    
+                            
